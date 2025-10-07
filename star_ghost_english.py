@@ -15,7 +15,7 @@
 ╚══════╝╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚══════╝ ╚═════╝╚═╝  ╚═╝   ╚═╝   ╚═╝ ╚═════╝ ╚═╝  ╚═══╝
 
 Advanced Database Enumeration via POSTGRES SQL Injection
-Author: HeavyGhost && EnglishX | CVE-2024-39309
+Author: HeavyGhost && Englishx | CVE-2024-39309
 Description: Comprehensive database enumeration via SQL injection in Parse Server,  prior to 6.5.7 and 7.1.0
 https://nvd.nist.gov/vuln/detail/CVE-2024-39309
 """
