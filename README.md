@@ -1,6 +1,6 @@
 Database Ghost 🔥
 Advanced PostgreSQL SQL Injection Exploitation Tool
-<p align="center"> <img src="https://img.shields.io/badge/Python-3.6%2B-blue?style=for-the-badge&logo=python" alt="Python"> <img src="https://img.shields.io/badge/PostgreSQL-SQL%20Injection-red?style=for-the-badge&logo=postgresql" alt="PostgreSQL"> <img src="https://img.shields.io/badge/CVE-2024--39309-orange?style=for-the-badge" alt="CVE-2024-39309"> <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License"> </p>
+<p align="center"> <img src="https://img.shields.io/badge/Python-3.6%2B-blue?style=for-the-badge&logo=python" alt="Python"> <img src="https://img.shields.io/badge/PostgreSQL-SQL%20Injection-red?style=for-the-badge&logo=postgresql" alt="PostgreSQL"> <img src="https://img.shields.io/badge/CVE-2024--39309-orange?style=for-the-badge" alt="CVE-2024-39309"> </p>
 
 🚨 DISCLAIMER
 FOR AUTHORIZED SECURITY TESTING ONLY
