@@ -18,7 +18,7 @@ chmod +x star_ghost_english.py
 
 Basic Usage
 ```
-# Full database takeover
+# Full database enumeration
 python3 star_ghost_english.py -u http://target:1337 -a your-app-id
 
 # Read system files
